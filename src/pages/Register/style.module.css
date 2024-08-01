@@ -1,0 +1,22 @@
+.form{
+    width: 600px;
+    padding: 20px;
+    margin: 30px auto;
+
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.form *{
+    width: 100%;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 5px;
+    
+}
+
+.title{
+    text-align: center;
+    margin-top: 50px;
+}
